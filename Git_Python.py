@@ -7,6 +7,5 @@ while contador < 5 :
     print(f"O Valor do contador é: {contador} ")
 
 print(f" \nTestando o comando git dif \n")
-
-
-print(f"Primeiro comando na nova-branch ")
+print(f"Primeiro comando na nova-branch \n ")
+print(f"Commit depois do merge \n ")
